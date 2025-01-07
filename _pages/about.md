@@ -1,25 +1,34 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Scientist @ <a href="https://haiper.ai">Haiper</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m currently a Research Scientist at [Haiper](https://haiper.ai), where we are building foundation models for text-to-video generation. Previously I worked at Huawei Canada on the parameter-efficient tuning and alignment of LLMs.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm interested in multimodal foundation models, generative models, and designing perception systems. My goal is to create interactive world models that can generate photorealistic and explorable environments.
+
+I did my Computer Science Master's studies at [Mila](https://mila.quebec/en) and Concordia University, advised by [Eugene Belilovsky](https://eugenium.github.io/) and collaborating with [Rahaf Aljundi](https://rahafaljundi.com/). I worked on the generalization and continual/decentralized training of deep neural networks.
+ 
+Apart from my research I also enjoy working on open source projects and generative art. Check out my projects for more!
+
+<!-- ##### Research
+
+My research has focused on exploring innovative paradigms for the next generation of large-scale deep learning systems, given any source of supervision. These systems will exhibit continuous growth in modalities (multi-modal learning), tasks (continual learning), and computation (decentralized learning). -->
+
+
+<!-- ##### Writings
+
+I like sharing my thoughts and writings on machine learning ideas, concepts, and applications on my [Blog](/blog/) and [Twitter](https://twitter.com/naderasadi_). -->
