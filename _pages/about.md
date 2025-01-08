@@ -16,11 +16,12 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I’m currently a Research Scientist at [Haiper](https://haiper.ai), where we are building foundation models for text-to-video generation. Previously I worked at Huawei Canada on the parameter-efficient tuning and alignment of LLMs.
+I’m currently a Research Scientist at [Haiper](https://haiper.ai), where we are building foundation models for text-to-video generation.
 
 I'm interested in multimodal foundation models, generative models, and designing perception systems. My goal is to create interactive world models that can generate photorealistic and explorable environments.
 
-I did my Computer Science Master's studies at [Mila](https://mila.quebec/en) and Concordia University, advised by [Eugene Belilovsky](https://eugenium.github.io/) and collaborating with [Rahaf Aljundi](https://rahafaljundi.com/). I worked on the generalization and continual/decentralized training of deep neural networks.
+Previously, I worked at Huawei - Noah's Ark Lab on the parameter-efficient tuning and alignment of LLMs.
+I did my Computer Science Master's studies at [Mila](https://mila.quebec/en) and Concordia University, advised by [Eugene Belilovsky](https://eugenium.github.io/) and collaborating with [Rahaf Aljundi](https://scholar.google.com/citations?user=YLh7yrwAAAAJ&hl=en). I worked on the generalization and continual/decentralized training of deep neural networks.
  
 Apart from my research I also enjoy working on open source projects and generative art. Check out my projects for more!
 
